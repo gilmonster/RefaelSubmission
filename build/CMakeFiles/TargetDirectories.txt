@@ -1,0 +1,3 @@
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/MyEncripter.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/ZERO_CHECK.dir
