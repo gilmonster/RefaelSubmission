@@ -173,9 +173,15 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\build\MyEncripter.vcxproj">
-      <Project>{2F7522D7-1844-3040-8AB8-6B073D13039C}</Project>
-      <Name>MyEncripter</Name>
+    <ProjectReference Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\build\MyExecutable.vcxproj">
+      <Project>{2EF962D5-6024-3C9F-9121-DDA09F5FAE7F}</Project>
+      <Name>MyExecutable</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\build\MyPackage.vcxproj">
+      <Project>{38D3D419-B885-36D7-9B14-F11811317B1A}</Project>
+      <Name>MyPackage</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

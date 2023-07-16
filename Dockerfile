@@ -4,6 +4,9 @@ FROM python:3.9
 # Set the working directory inside the container
 WORKDIR /app
 
+# Install CMake
+RUN apt-get update && apt-get install -y cmake
+
 # Copy the entire project code to the working directory
 COPY . .
 

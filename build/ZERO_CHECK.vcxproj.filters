@@ -6,8 +6,16 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <None Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\package\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\package</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <Filter Include="CMake Rules">
       <UniqueIdentifier>{26533609-97B8-35CA-9E4E-CC47A385E102}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\package">
+      <UniqueIdentifier>{82073B31-D13A-3301-B3E0-AF5BCFCD9E34}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

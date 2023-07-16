@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\build\CMakeFiles\23996dfbfe32b841444158ce29d6dbe8\BuildCMakeWheel.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\build\CMakeFiles\BuildCMakeWheel" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{26533609-97B8-35CA-9E4E-CC47A385E102}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
