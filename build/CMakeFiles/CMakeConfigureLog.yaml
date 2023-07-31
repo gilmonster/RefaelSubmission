@@ -26,7 +26,7 @@ events:
       Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      Build started 13/07/2023 16:17:24.
+      Build started 16/07/2023 21:41:42.
       Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\3.27.0-rc4\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -52,7 +52,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:02.43
+      Time Elapsed 00:00:01.95
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -80,7 +80,7 @@ events:
       Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      Build started 13/07/2023 16:17:27.
+      Build started 16/07/2023 21:41:45.
       Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\3.27.0-rc4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -106,7 +106,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.71
+      Time Elapsed 00:00:01.65
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -125,47 +125,47 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-dtkkb9"
-      binary: "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-dtkkb9"
+      source: "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-i4acg4"
+      binary: "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-i4acg4"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
     buildResult:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-dtkkb9'
+        Change Dir: 'C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-i4acg4'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_0bfca.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_b8617.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        Build started 13/07/2023 16:17:30.
-        Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dtkkb9\\cmTC_0bfca.vcxproj" on node 1 (default targets).
+        Build started 16/07/2023 21:41:47.
+        Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i4acg4\\cmTC_b8617.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_0bfca.dir\\Debug\\".
-          Creating directory "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dtkkb9\\Debug\\".
-          Creating directory "cmTC_0bfca.dir\\Debug\\cmTC_0bfca.tlog\\".
+          Creating directory "cmTC_b8617.dir\\Debug\\".
+          Creating directory "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i4acg4\\Debug\\".
+          Creating directory "cmTC_b8617.dir\\Debug\\cmTC_b8617.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_0bfca.dir\\Debug\\cmTC_0bfca.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_b8617.dir\\Debug\\cmTC_b8617.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0bfca.dir\\Debug\\\\" /Fd"cmTC_0bfca.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b8617.dir\\Debug\\\\" /Fd"cmTC_b8617.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30140 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
           CMakeCCompilerABI.c
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0bfca.dir\\Debug\\\\" /Fd"cmTC_0bfca.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b8617.dir\\Debug\\\\" /Fd"cmTC_b8617.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dtkkb9\\Debug\\cmTC_0bfca.exe" /INCREMENTAL /ILK:"cmTC_0bfca.dir\\Debug\\cmTC_0bfca.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-dtkkb9/Debug/cmTC_0bfca.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-dtkkb9/Debug/cmTC_0bfca.lib" /MACHINE:X64  /machine:x64 cmTC_0bfca.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_0bfca.vcxproj -> C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dtkkb9\\Debug\\cmTC_0bfca.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i4acg4\\Debug\\cmTC_b8617.exe" /INCREMENTAL /ILK:"cmTC_b8617.dir\\Debug\\cmTC_b8617.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-i4acg4/Debug/cmTC_b8617.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-i4acg4/Debug/cmTC_b8617.lib" /MACHINE:X64  /machine:x64 cmTC_b8617.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_b8617.vcxproj -> C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i4acg4\\Debug\\cmTC_b8617.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_0bfca.dir\\Debug\\cmTC_0bfca.tlog\\unsuccessfulbuild".
-          Touching "cmTC_0bfca.dir\\Debug\\cmTC_0bfca.tlog\\cmTC_0bfca.lastbuildstate".
-        Done Building Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dtkkb9\\cmTC_0bfca.vcxproj" (default targets).
+          Deleting file "cmTC_b8617.dir\\Debug\\cmTC_b8617.tlog\\unsuccessfulbuild".
+          Touching "cmTC_b8617.dir\\Debug\\cmTC_b8617.tlog\\cmTC_b8617.lastbuildstate".
+        Done Building Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i4acg4\\cmTC_b8617.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.35
+        Time Elapsed 00:00:01.30
         
       exitCode: 0
   -
@@ -177,47 +177,47 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-jueav6"
-      binary: "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-jueav6"
+      source: "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-6smp13"
+      binary: "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-6smp13"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
     buildResult:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-jueav6'
+        Change Dir: 'C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-6smp13'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_780b9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_8803d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        Build started 13/07/2023 16:17:32.
-        Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jueav6\\cmTC_780b9.vcxproj" on node 1 (default targets).
+        Build started 16/07/2023 21:41:49.
+        Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6smp13\\cmTC_8803d.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_780b9.dir\\Debug\\".
-          Creating directory "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jueav6\\Debug\\".
-          Creating directory "cmTC_780b9.dir\\Debug\\cmTC_780b9.tlog\\".
+          Creating directory "cmTC_8803d.dir\\Debug\\".
+          Creating directory "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6smp13\\Debug\\".
+          Creating directory "cmTC_8803d.dir\\Debug\\cmTC_8803d.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_780b9.dir\\Debug\\cmTC_780b9.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_8803d.dir\\Debug\\cmTC_8803d.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_780b9.dir\\Debug\\\\" /Fd"cmTC_780b9.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8803d.dir\\Debug\\\\" /Fd"cmTC_8803d.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30140 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_780b9.dir\\Debug\\\\" /Fd"cmTC_780b9.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8803d.dir\\Debug\\\\" /Fd"cmTC_8803d.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jueav6\\Debug\\cmTC_780b9.exe" /INCREMENTAL /ILK:"cmTC_780b9.dir\\Debug\\cmTC_780b9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-jueav6/Debug/cmTC_780b9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-jueav6/Debug/cmTC_780b9.lib" /MACHINE:X64  /machine:x64 cmTC_780b9.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_780b9.vcxproj -> C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jueav6\\Debug\\cmTC_780b9.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6smp13\\Debug\\cmTC_8803d.exe" /INCREMENTAL /ILK:"cmTC_8803d.dir\\Debug\\cmTC_8803d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-6smp13/Debug/cmTC_8803d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/CMakeScratch/TryCompile-6smp13/Debug/cmTC_8803d.lib" /MACHINE:X64  /machine:x64 cmTC_8803d.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_8803d.vcxproj -> C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6smp13\\Debug\\cmTC_8803d.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_780b9.dir\\Debug\\cmTC_780b9.tlog\\unsuccessfulbuild".
-          Touching "cmTC_780b9.dir\\Debug\\cmTC_780b9.tlog\\cmTC_780b9.lastbuildstate".
-        Done Building Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jueav6\\cmTC_780b9.vcxproj" (default targets).
+          Deleting file "cmTC_8803d.dir\\Debug\\cmTC_8803d.tlog\\unsuccessfulbuild".
+          Touching "cmTC_8803d.dir\\Debug\\cmTC_8803d.tlog\\cmTC_8803d.lastbuildstate".
+        Done Building Project "C:\\Users\\USER\\OneDrive - ort braude college of engineering\\Desktop\\MyProject_1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6smp13\\cmTC_8803d.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.31
+        Time Elapsed 00:00:01.40
         
       exitCode: 0
 ...

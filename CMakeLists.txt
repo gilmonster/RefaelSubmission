@@ -4,9 +4,9 @@ project(Encripter)
 
 add_subdirectory(package)
 
-add_custom_target(MyPackage ALL
+add_custom_target(Package ALL
     COMMAND ${CMAKE_COMMAND} -E copy_directory
-        ${CMAKE_CURRENT_SOURCE_DIR}/package ${CMAKE_CURRENT_BINARY_DIR}/my_package
+        ${CMAKE_CURRENT_SOURCE_DIR}/package ${CMAKE_CURRENT_BINARY_DIR}/package
     COMMENT "Copying Python package files"
 )
 

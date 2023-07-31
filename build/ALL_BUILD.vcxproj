@@ -177,9 +177,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{2EF962D5-6024-3C9F-9121-DDA09F5FAE7F}</Project>
       <Name>MyExecutable</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\build\MyPackage.vcxproj">
-      <Project>{38D3D419-B885-36D7-9B14-F11811317B1A}</Project>
-      <Name>MyPackage</Name>
+    <ProjectReference Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\build\Package.vcxproj">
+      <Project>{57DBE7E7-11F8-3F1D-B315-76CEBBCCDB82}</Project>
+      <Name>Package</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>

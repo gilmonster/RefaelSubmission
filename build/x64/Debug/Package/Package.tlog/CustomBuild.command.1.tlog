@@ -1,0 +1,20 @@
+^C:\USERS\USER\ONEDRIVE - ORT BRAUDE COLLEGE OF ENGINEERING\DESKTOP\MYPROJECT_1\BUILD\CMAKEFILES\23996DFBFE32B841444158CE29D6DBE8\PACKAGE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/package" "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/package"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\ONEDRIVE - ORT BRAUDE COLLEGE OF ENGINEERING\DESKTOP\MYPROJECT_1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1" "-BC:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build" --check-stamp-file "C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

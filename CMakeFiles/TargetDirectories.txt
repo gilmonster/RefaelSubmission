@@ -1,0 +1,8 @@
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/CMakeFiles/Package.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/CMakeFiles/MyExecutable.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/CMakeFiles/BuildCMakeWheel.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/CMakeFiles/INSTALL.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/CMakeFiles/ALL_BUILD.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/CMakeFiles/ZERO_CHECK.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/package/CMakeFiles/INSTALL.dir
+C:/Users/USER/OneDrive - ort braude college of engineering/Desktop/MyProject_1/package/CMakeFiles/ALL_BUILD.dir

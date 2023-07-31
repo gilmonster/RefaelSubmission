@@ -1,0 +1,4 @@
+﻿  Building the CMake Python wheel
+  'mkvirtualenv' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: Custom build for 'C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\build\CMakeFiles\23996dfbfe32b841444158ce29d6dbe8\BuildCMakeWheel.rule;C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\CMakeLists.txt' exited with code 9009.

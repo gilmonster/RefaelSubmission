@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\CMakeFiles\862fbdeb6a38b99f322db354e0fbc9bb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\USER\OneDrive - ort braude college of engineering\Desktop\MyProject_1\package\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\package</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A0743CDF-62FC-3AA1-ABBF-3A260CDA943B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\package">
+      <UniqueIdentifier>{5CEEE491-D1A0-3187-97ED-039950DDC806}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
